@@ -1,4 +1,4 @@
-<h1 align="center">Faq</h1>
+<h1 align="center">FAQs</h1>
 
 ![modelo6](https://github.com/JuCanavans/faq/assets/103950621/fa5d22a3-009a-459c-bc3b-992c86a33cde)
 
